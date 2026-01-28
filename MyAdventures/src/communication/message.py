@@ -1,10 +1,6 @@
 import jsonschema
 from jsonschema import FormatChecker, validate
 
-
-
-
-
 message_schema = {
     "type": "object",
     "additionalProperties": False,

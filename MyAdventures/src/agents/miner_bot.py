@@ -1,12 +1,14 @@
-from minecraft.MyAdventures.src.agents.base_agent import BaseAgent 
+from .base_agent import BaseAgent 
+from ..command_related.agent_names import AgentNames
 
-class ExplorerBot(BaseAgent):
+class MinerBot(BaseAgent):
+    agent_name = AgentNames.MINER
     
-    def perceive(self):
+    def _perceive(self):
         pass
 
-    def decide(self):
+    def _decide(self):
         pass
 
-    def act(self):
+    def _act(self):
         pass

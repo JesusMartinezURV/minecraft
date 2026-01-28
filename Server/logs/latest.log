@@ -1,12 +1,230 @@
-[14:58:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 69048192ms behind, skipping 1380963 tick(s)
-[17:03:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 1796868ms behind, skipping 35937 tick(s)
-[18:55:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6710240ms behind, skipping 134204 tick(s)
-[19:06:42] [Server thread/INFO]: Stopping the server
-[19:06:42] [Server thread/INFO]: Stopping server
-[19:06:42] [Server thread/INFO]: [RaspberryJuice] Disabling RaspberryJuice v1.10
-[19:06:42] [Server thread/INFO]: [RaspberryJuice] Raspberry Juice Stopped
-[19:06:42] [Server thread/INFO]: Saving players
-[19:06:42] [Server thread/INFO]: Saving worlds
-[19:06:42] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[19:06:42] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
-[19:06:42] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
+[20:28:44] [Server thread/INFO]: Starting minecraft server version 1.12
+[20:28:44] [Server thread/INFO]: Loading properties
+[20:28:44] [Server thread/INFO]: Default game type: CREATIVE
+[20:28:44] [Server thread/INFO]: Generating keypair
+[20:28:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:28:44] [Server thread/INFO]: Using default channel type
+[20:28:45] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-ed8c725 (MC: 1.12) (Implementing API version 1.12-R0.1-SNAPSHOT)
+[20:28:45] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.10
+[20:28:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:28:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:28:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:28:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:28:45] [Server thread/INFO]: Preparing level "world"
+[20:28:45] [Server thread/INFO]: Preparing start region for level 0 (Seed: -1835046996871696594)
+[20:28:46] [Server thread/INFO]: Preparing start region for level 1 (Seed: -1835046996871696594)
+[20:28:46] [Server thread/INFO]: Preparing start region for level 2 (Seed: -1835046996871696594)
+[20:28:46] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.10
+[20:28:46] [Server thread/INFO]: [RaspberryJuice] Using port 4711
+[20:28:46] [Server thread/INFO]: [RaspberryJuice] Using ABSOLUTE locations
+[20:28:46] [Server thread/INFO]: [RaspberryJuice] Using BOTH clicks for hits
+[20:28:46] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[20:28:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:28:46] [Server thread/INFO]: Done (1,215s)! For help, type "help" or "?"
+[20:30:30] [Server thread/INFO]: Bucolicus[/127.0.0.1:57392] logged in with entity id 38 at ([world]254.5, 64.0, 247.5)
+[20:30:37] [Thread-7/INFO]: [RaspberryJuice] Starting input thread
+[20:30:37] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:57396.
+[20:30:37] [Thread-8/INFO]: [RaspberryJuice] Starting output thread!
+[20:30:37] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:57396.
+[20:33:01] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50522.
+[20:33:01] [Thread-10/INFO]: [RaspberryJuice] Starting output thread!
+[20:33:01] [Thread-9/INFO]: [RaspberryJuice] Starting input thread
+[20:33:12] [Netty Server IO #1/INFO]: <Bucolicus> jajaja[m
+[20:33:27] [Netty Server IO #1/INFO]: <Bucolicus> |ajjaja|ajaja[m
+[20:33:27] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50522.
+[20:34:33] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50564.
+[20:34:33] [Thread-11/INFO]: [RaspberryJuice] Starting input thread
+[20:34:33] [Thread-12/INFO]: [RaspberryJuice] Starting output thread!
+[20:34:39] [Netty Server IO #1/INFO]: <Bucolicus> jajaja[m
+[20:34:50] [Netty Server IO #1/INFO]: <Bucolicus> jo jo jo[m
+[20:35:01] [Netty Server IO #1/INFO]: <Bucolicus> ojito ojete[m
+[20:35:14] [Netty Server IO #1/INFO]: <Bucolicus> ojito ojete[m
+[20:35:28] [Netty Server IO #1/INFO]: <Bucolicus> jajaj[m
+[20:35:55] [Thread-11/INFO]: [RaspberryJuice] Connection reset
+[20:35:55] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50564.
+[20:36:04] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60268.
+[20:36:04] [Thread-13/INFO]: [RaspberryJuice] Starting input thread
+[20:36:04] [Thread-14/INFO]: [RaspberryJuice] Starting output thread!
+[20:36:09] [Netty Server IO #1/INFO]: <Bucolicus> gogogo[m
+[20:36:20] [Netty Server IO #1/INFO]: <Bucolicus> jaja[m
+[20:36:24] [Netty Server IO #1/INFO]: <Bucolicus> yo[m
+[20:36:29] [Netty Server IO #1/INFO]: <Bucolicus> aaaa[m
+[20:36:34] [Netty Server IO #1/INFO]: <Bucolicus> constante[m
+[20:36:38] [Netty Server IO #1/INFO]: <Bucolicus> inconstante[m
+[20:36:57] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60268.
+[20:36:58] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:55965.
+[20:36:58] [Thread-15/INFO]: [RaspberryJuice] Starting input thread
+[20:36:58] [Thread-16/INFO]: [RaspberryJuice] Starting output thread!
+[20:37:16] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:55965.
+[20:37:17] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58113.
+[20:37:17] [Thread-17/INFO]: [RaspberryJuice] Starting input thread
+[20:37:17] [Thread-18/INFO]: [RaspberryJuice] Starting output thread!
+[20:37:22] [Netty Server IO #1/INFO]: <Bucolicus> papa[m
+[20:37:24] [Netty Server IO #1/INFO]: <Bucolicus> pa[m
+[20:37:27] [Netty Server IO #1/INFO]: <Bucolicus> jo[m
+[20:37:29] [Netty Server IO #1/INFO]: <Bucolicus> jo[m
+[20:37:31] [Netty Server IO #1/INFO]: <Bucolicus> jo[m
+[20:37:40] [Netty Server IO #1/INFO]: <Bucolicus> 1[m
+[20:37:44] [Netty Server IO #1/INFO]: <Bucolicus> 2[m
+[20:37:49] [Netty Server IO #1/INFO]: <Bucolicus> 5[m
+[20:37:52] [Netty Server IO #1/INFO]: <Bucolicus> 5[m
+[20:37:56] [Netty Server IO #1/INFO]: <Bucolicus> 1[m
+[20:38:00] [Netty Server IO #1/INFO]: <Bucolicus> ftrftg[m
+[20:38:02] [Netty Server IO #1/INFO]: <Bucolicus> f[m
+[20:38:07] [Netty Server IO #1/INFO]: <Bucolicus> f[m
+[20:38:08] [Netty Server IO #1/INFO]: <Bucolicus> f[m
+[20:38:09] [Netty Server IO #1/INFO]: <Bucolicus> f[m
+[20:38:10] [Netty Server IO #1/INFO]: <Bucolicus> f[m
+[20:38:11] [Netty Server IO #1/INFO]: <Bucolicus> f[m
+[20:38:11] [Netty Server IO #1/INFO]: <Bucolicus> f[m
+[20:38:13] [Netty Server IO #1/INFO]: <Bucolicus> f[m
+[20:38:14] [Netty Server IO #1/INFO]: <Bucolicus> f[m
+[20:38:20] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58113.
+[20:38:48] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:58151.
+[20:38:48] [Thread-20/INFO]: [RaspberryJuice] Starting output thread!
+[20:38:48] [Thread-19/INFO]: [RaspberryJuice] Starting input thread
+[20:38:48] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:58151.
+[20:41:42] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60351.
+[20:41:42] [Thread-22/INFO]: [RaspberryJuice] Starting output thread!
+[20:41:42] [Thread-21/INFO]: [RaspberryJuice] Starting input thread
+[20:41:48] [Netty Server IO #1/INFO]: <Bucolicus> go[m
+[20:41:51] [Netty Server IO #1/INFO]: <Bucolicus> gogogo[m
+[20:41:53] [Netty Server IO #1/INFO]: <Bucolicus> gogogo[m
+[20:41:56] [Netty Server IO #1/INFO]: <Bucolicus> ggggggaa[m
+[20:42:37] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60351.
+[20:42:39] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60373.
+[20:42:39] [Thread-23/INFO]: [RaspberryJuice] Starting input thread
+[20:42:39] [Thread-24/INFO]: [RaspberryJuice] Starting output thread!
+[20:42:43] [Netty Server IO #1/INFO]: <Bucolicus> ho[m
+[20:42:48] [Netty Server IO #1/INFO]: <Bucolicus> papa[m
+[20:42:50] [Netty Server IO #1/INFO]: <Bucolicus> pa[m
+[20:42:52] [Netty Server IO #1/INFO]: <Bucolicus> jja[m
+[20:44:31] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60373.
+[20:44:34] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:59846.
+[20:44:34] [Thread-25/INFO]: [RaspberryJuice] Starting input thread
+[20:44:34] [Thread-26/INFO]: [RaspberryJuice] Starting output thread!
+[20:44:42] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:59846.
+[20:45:37] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:59880.
+[20:45:37] [Thread-28/INFO]: [RaspberryJuice] Starting output thread!
+[20:45:37] [Thread-27/INFO]: [RaspberryJuice] Starting input thread
+[20:45:48] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:59880.
+[20:46:03] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64447.
+[20:46:03] [Thread-29/INFO]: [RaspberryJuice] Starting input thread
+[20:46:03] [Thread-30/INFO]: [RaspberryJuice] Starting output thread!
+[20:46:21] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64447.
+[20:46:28] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64460.
+[20:46:28] [Thread-32/INFO]: [RaspberryJuice] Starting output thread!
+[20:46:28] [Thread-31/INFO]: [RaspberryJuice] Starting input thread
+[20:46:33] [Netty Server IO #1/INFO]: <Bucolicus> jaja[m
+[20:46:45] [Netty Server IO #1/INFO]: <Bucolicus> jaja[m
+[20:47:20] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64460.
+[20:47:21] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64264.
+[20:47:21] [Thread-33/INFO]: [RaspberryJuice] Starting input thread
+[20:47:21] [Thread-34/INFO]: [RaspberryJuice] Starting output thread!
+[20:47:21] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64264.
+[20:48:07] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64286.
+[20:48:07] [Thread-35/INFO]: [RaspberryJuice] Starting input thread
+[20:48:07] [Thread-36/INFO]: [RaspberryJuice] Starting output thread!
+[20:48:20] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64286.
+[20:48:23] [Netty Server IO #1/INFO]: <Bucolicus> jaja[m
+[20:48:26] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64295.
+[20:48:26] [Thread-37/INFO]: [RaspberryJuice] Starting input thread
+[20:48:26] [Thread-38/INFO]: [RaspberryJuice] Starting output thread!
+[20:48:32] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64295.
+[20:48:33] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64299.
+[20:48:33] [Thread-39/INFO]: [RaspberryJuice] Starting input thread
+[20:48:33] [Thread-40/INFO]: [RaspberryJuice] Starting output thread!
+[20:48:43] [Netty Server IO #1/INFO]: <Bucolicus> jaja[m
+[20:48:49] [Netty Server IO #1/INFO]: <Bucolicus> jojo,jo[m
+[20:48:54] [Netty Server IO #1/INFO]: <Bucolicus> tttttaaaaa[m
+[20:52:06] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64299.
+[20:52:08] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53377.
+[20:52:08] [Thread-42/INFO]: [RaspberryJuice] Starting output thread!
+[20:52:08] [Thread-41/INFO]: [RaspberryJuice] Starting input thread
+[20:52:15] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53377.
+[20:52:53] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53401.
+[20:52:53] [Thread-43/INFO]: [RaspberryJuice] Starting input thread
+[20:52:53] [Thread-44/INFO]: [RaspberryJuice] Starting output thread!
+[20:53:02] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53401.
+[20:53:17] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53414.
+[20:53:17] [Thread-46/INFO]: [RaspberryJuice] Starting output thread!
+[20:53:17] [Thread-45/INFO]: [RaspberryJuice] Starting input thread
+[20:53:19] [Netty Server IO #1/INFO]: <Bucolicus> jaja[m
+[20:53:22] [Netty Server IO #1/INFO]: <Bucolicus> jojo[m
+[20:53:26] [Netty Server IO #1/INFO]: <Bucolicus> tata[m
+[20:53:31] [Netty Server IO #1/INFO]: <Bucolicus> jajaj[m
+[20:53:36] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53414.
+[20:54:39] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:57901.
+[20:54:39] [Thread-47/INFO]: [RaspberryJuice] Starting input thread
+[20:54:39] [Thread-48/INFO]: [RaspberryJuice] Starting output thread!
+[20:54:43] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:57901.
+[20:55:28] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:57925.
+[20:55:28] [Thread-49/INFO]: [RaspberryJuice] Starting input thread
+[20:55:28] [Thread-50/INFO]: [RaspberryJuice] Starting output thread!
+[20:55:33] [Netty Server IO #1/INFO]: <Bucolicus> jajaj[m
+[20:55:36] [Netty Server IO #1/INFO]: <Bucolicus> aaaa[m
+[20:55:40] [Netty Server IO #1/INFO]: <Bucolicus> aaaaa[m
+[20:55:53] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:57925.
+[20:55:55] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50712.
+[20:55:55] [Thread-52/INFO]: [RaspberryJuice] Starting output thread!
+[20:55:55] [Thread-51/INFO]: [RaspberryJuice] Starting input thread
+[20:55:57] [Netty Server IO #1/INFO]: <Bucolicus> aaaaa[m
+[20:55:59] [Netty Server IO #1/INFO]: <Bucolicus> aa[m
+[20:57:19] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50712.
+[20:57:20] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62719.
+[20:57:20] [Thread-54/INFO]: [RaspberryJuice] Starting output thread!
+[20:57:20] [Thread-53/INFO]: [RaspberryJuice] Starting input thread
+[20:57:23] [Netty Server IO #1/INFO]: <Bucolicus> jaja[m
+[20:57:32] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62719.
+[20:57:33] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62726.
+[20:57:33] [Thread-55/INFO]: [RaspberryJuice] Starting input thread
+[20:57:33] [Thread-56/INFO]: [RaspberryJuice] Starting output thread!
+[20:57:37] [Netty Server IO #1/INFO]: <Bucolicus> jojo[m
+[20:57:40] [Netty Server IO #1/INFO]: <Bucolicus> jajaj[m
+[20:57:47] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62726.
+[20:57:47] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62734.
+[20:57:47] [Thread-57/INFO]: [RaspberryJuice] Starting input thread
+[20:57:47] [Thread-58/INFO]: [RaspberryJuice] Starting output thread!
+[20:57:49] [Netty Server IO #1/INFO]: <Bucolicus> jajaj[m
+[20:57:51] [Netty Server IO #1/INFO]: <Bucolicus> aa[m
+[20:57:55] [Netty Server IO #1/INFO]: <Bucolicus> aaa[m
+[20:57:56] [Netty Server IO #1/INFO]: <Bucolicus> aaaaaaa[m
+[20:58:15] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62734.
+[20:58:20] [Netty Server IO #1/INFO]: <Bucolicus> jajaj[m
+[20:58:27] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62753.
+[20:58:27] [Thread-59/INFO]: [RaspberryJuice] Starting input thread
+[20:58:27] [Thread-60/INFO]: [RaspberryJuice] Starting output thread!
+[20:58:31] [Netty Server IO #1/INFO]: <Bucolicus> jejje[m
+[20:58:35] [Netty Server IO #1/INFO]: <Bucolicus> jja[m
+[20:58:35] [Netty Server IO #1/INFO]: <Bucolicus> f[m
+[20:58:39] [Netty Server IO #1/INFO]: <Bucolicus> f[m
+[20:58:39] [Netty Server IO #1/INFO]: <Bucolicus> ft[m
+[20:58:40] [Netty Server IO #1/INFO]: <Bucolicus> ft[m
+[20:59:21] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62753.
+[20:59:22] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62287.
+[20:59:22] [Thread-61/INFO]: [RaspberryJuice] Starting input thread
+[20:59:22] [Thread-62/INFO]: [RaspberryJuice] Starting output thread!
+[20:59:24] [Netty Server IO #1/INFO]: <Bucolicus> fgff[m
+[20:59:25] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62287.
+[20:59:52] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62306.
+[20:59:52] [Thread-64/INFO]: [RaspberryJuice] Starting output thread!
+[20:59:52] [Thread-63/INFO]: [RaspberryJuice] Starting input thread
+[20:59:55] [Netty Server IO #1/INFO]: <Bucolicus> ddd[m
+[21:00:13] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62306.
+[21:00:14] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:59433.
+[21:00:14] [Thread-65/INFO]: [RaspberryJuice] Starting input thread
+[21:00:14] [Thread-66/INFO]: [RaspberryJuice] Starting output thread!
+[21:00:17] [Netty Server IO #1/INFO]: <Bucolicus> jaj[m
+[21:00:22] [Netty Server IO #1/INFO]: <Bucolicus> ja[m
+[21:00:23] [Netty Server IO #1/INFO]: <Bucolicus> g[m
+[21:00:25] [Netty Server IO #1/INFO]: <Bucolicus> g[m
+[21:00:26] [Netty Server IO #1/INFO]: <Bucolicus> gt[m
+[21:00:32] [Netty Server IO #1/INFO]: <Bucolicus> gt[m
+[21:00:32] [Netty Server IO #1/INFO]: <Bucolicus> g[m
+[21:00:34] [Netty Server IO #1/INFO]: <Bucolicus> gtg[m
+[21:00:34] [Netty Server IO #1/INFO]: <Bucolicus> g[m
+[21:00:35] [Netty Server IO #1/INFO]: <Bucolicus> g[m
+[21:00:36] [Netty Server IO #1/INFO]: <Bucolicus> g[m
+[21:00:36] [Netty Server IO #1/INFO]: <Bucolicus> g[m
+[21:00:39] [Netty Server IO #1/INFO]: <Bucolicus> g[m
+[22:11:51] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:59433.
